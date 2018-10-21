@@ -1,0 +1,24 @@
+{
+  "name": "run-ls",
+  "version": "1.0.0",
+  "description": "Quickly list available commands for a Node module",
+  "main": "index.js",
+  "preferGlobal": true,
+  "bin": {
+    "run-ls": "run-ls.js",
+    "runls": "run-ls.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexarena/run-ls.git"
+  },
+  "author": "Alex Arena",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/alexarena/run-ls/issues"
+  },
+  "homepage": "https://github.com/alexarena/run-ls#readme"
+}
